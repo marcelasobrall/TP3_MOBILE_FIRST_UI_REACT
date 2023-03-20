@@ -1,0 +1,21 @@
+.sidenav{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 200px;
+    background-color: #0f0542;
+    padding: 10px;
+  }
+  .sidenav a{
+    padding: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 80px;
+  }
+  .sidenav a:hover{
+    background-color: #1a83ff;
+  }

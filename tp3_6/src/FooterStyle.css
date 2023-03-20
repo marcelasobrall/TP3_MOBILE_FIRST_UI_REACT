@@ -1,0 +1,13 @@
+footer{
+  border-top: 2px solid #ddd;
+  padding: 3.5rem;
+  text-align: center;
+  background: #060637;
+}
+footer h2,
+footer p{
+  font-size: 20px;
+  color: white;
+  padding: 0.1rem;
+  padding-right: 57rem;
+}

@@ -1,0 +1,25 @@
+.container{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+  }
+  .logo{
+    width: 100px;
+  }
+  .container nav{
+    display: flex;
+  }
+  .container li a{
+    color: #5a075a;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  .container li{
+    margin: 0 15px;
+  }
+  
